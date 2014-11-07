@@ -1,6 +1,13 @@
 workflow-simple_server
 ======================
 
-A simple server with livereload
+A simple servers with livereload
 
-This workflow sets up a connect server using gulp and enabling live reload.
+This workflow sets up a connect server using gulp and enabling livereload.
+
+
+$ gulp // basic server
+
+$ gulp-less // server using less
+
+$ gulp-sass // server using sass
